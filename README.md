@@ -4,7 +4,7 @@
 
 ArtStore is a hypothesis artwork online store based on LAMP(Linux+Apache+MySQL+PHP). 
 
-Many features in this project are universal, and can be reused to build online stores.
+Many features in this project are common, and can be reused to build other online stores.
   
 ## Features
 
